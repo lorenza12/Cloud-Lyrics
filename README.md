@@ -39,7 +39,7 @@ py -3.6 -m pip install -r Requirements.txt
 Sometimes an error occures when trying to install the modules, and the fix I found was to install microsoft build tools from [visualstudio.microsoft.com](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
 
 #### Getting Authorization Bearer
-The lyrics are found using the genius api. You will need to create and account and authorize your account to get your own authorization bearer code. This can be done [here](https://docs.genius.com/). After creating an account, there will be a button on the right side of the documentation page that says 'Authorize'. Clicking the button will open a new tab to authorize your account. After authorizing your account and going back to the docs page, there will now be a authorization bearer code and also a button to 'Try It'. Copy the authorization bearer code and open Genius_Api.py file and paste in the code where it says '<PLACE AUTHORIZATION BEARER CODE HERE>'. Save the file and you should now be able to run it. 
+The lyrics are found using the genius api. You will need to create and account and authorize your account to get your own authorization bearer code. This can be done [here](https://docs.genius.com/). After creating an account, there will be a button on the right side of the documentation page that says 'Authorize'. Clicking the button will open a new tab to authorize your account. After authorizing your account and going back to the docs page, there will now be a authorization bearer code and also a button to 'Try It'. Copy the authorization bearer code and open Genius_Api.py file and paste in the code where it says "PLACE AUTHORIZATION BEARER CODE HERE". Save the file and you should now be able to run it. 
 
 ## Running Cloud Lyrics
 
