@@ -51,7 +51,7 @@ py -3.6 Main.py
 
 ### Example Results
 
-![Word Cloud](/images/Spotify US.png)
+![Word Cloud](/Word Cloud/Spotify US.png)
 
 
 ## Version
