@@ -51,7 +51,7 @@ py -3.6 Main.py
 
 ### Example Results
 
-![Word Cloud](https://raw.github.com/lorenza12/Cloud-Lyrics/Spotify_US.png)
+![Word Cloud](/Spotify_US.png)
 
 
 ## Version
